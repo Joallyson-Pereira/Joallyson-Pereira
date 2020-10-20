@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey! Welcome to my profile! Do you want to know a little more about me? 😁 👨‍💻 
+***
 
-<!--
-**Joallyson-Pereira/Joallyson-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 I'm a computer science student;
+* 💻❤️ I'm passionate about knowledge and technology;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  💪 At this moment I have a little knowledge in the following technologies:
+  * Phyton;
+  * Html;
+  * Css;
+  * JavaScript;
+ 
+ 
+*  👦 😁  In my free time I like to play games, listen to music and study a little about other things that I find interesting;
+***
+### Contact:
+![Gmail Badge](https://img.shields.io/badge/-joallyson.benicio@ccc.ufcg.edu.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joallyson.benicio@ccc.ufcg.edu.br)
