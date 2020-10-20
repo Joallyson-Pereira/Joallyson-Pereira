@@ -15,4 +15,5 @@
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 ***
 ### Contact:
-- joallyson.benicio@ccc.ufcg.edu.br
+
+[![Gmail Badge](https://img.shields.io/badge/-joallyson.benicio@ccc.ufcg.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joallyson.benicio@ccc.ufcg.edu.br)](mailto:joallyson.benicio@ccc.ufcg.edu.br)
