@@ -13,4 +13,4 @@
 - 👦 😁  In my free time I like to play games, listen to music and study a little about other things that I find interesting;
 ***
 ### Contact:
-![Gmail Badge](https://img.shields.io/badge/-joallyson.benicio@ccc.ufcg.edu.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joallyson.benicio@ccc.ufcg.edu.br)
+- joallyson.benicio@ccc.ufcg.edu.br
