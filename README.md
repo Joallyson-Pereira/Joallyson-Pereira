@@ -15,4 +15,5 @@
 ***
 ### Contact:
 
-[![Gmail Badge](https://img.shields.io/badge/-joallyson.benicio@ccc.ufcg.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joallyson.benicio@ccc.ufcg.edu.br)](mailto:joallyson.benicio@ccc.ufcg.edu.br)
+[![Gmail Badge](https://img.shields.io/badge/-joallyson.benicio@ccc.ufcg.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joallyson.benicio@ccc.ufcg.edu.br)](mailto:joallysonpere@gmail.com)
+
